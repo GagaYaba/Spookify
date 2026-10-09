@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Spookify</string>
+
+    <!-- Navigation -->
+    <string name="tab_discover">Découvrir</string>
+    <string name="tab_liked">Favoris</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_settings">Réglages</string>
+
+    <!-- Commun -->
+    <string name="greeting_day">Bonjour !</string>
+    <string name="greeting_evening">Bonsoir !</string>
+    <string name="back">Retour</string>
+    <string name="retry">Réessayer</string>
+    <string name="see_all">Tout voir</string>
+    <string name="stale_banner">%1$s Affichage des derniers contenus connus.</string>
+    <string name="fav_add">Ajouter aux favoris</string>
+    <string name="fav_remove">Retirer des favoris</string>
+    <string name="play">Lecture</string>
+    <string name="pause">Pause</string>
+    <string name="mute">Couper le son</string>
+    <string name="unmute">Activer le son</string>
+    <string name="playlist_subtitle">%1$s · %2$d titres</string>
+
+    <!-- Accueil -->
+    <string name="home_search">Rechercher</string>
+    <string name="home_empty">Aucun contenu à afficher pour le moment.</string>
+    <string name="home_for_you">Pour vous</string>
+    <string name="home_popular_artists">Artistes populaires</string>
+    <string name="home_trending_tracks">Morceaux tendances</string>
+    <string name="home_all_tracks">Tous les titres</string>
+
+    <!-- Playlists -->
+    <string name="playlists_title">Playlists</string>
+    <string name="playlists_empty">Aucune playlist disponible.</string>
+    <string name="playlist_title">Playlist</string>
+    <string name="playlist_empty">Cette playlist ne contient aucun morceau.</string>
+    <string name="play_all">Tout lire</string>
+
+    <!-- Recherche -->
+    <string name="search_title">Recherche</string>
+    <string name="search_hint">Titre, artiste…</string>
+    <string name="search_clear">Effacer</string>
+    <string name="search_prompt">Recherchez un titre ou un artiste.</string>
+    <string name="search_no_result">Aucun résultat pour « %1$s ».</string>
+
+    <!-- Favoris -->
+    <string name="liked_title">Favoris</string>
+    <string name="liked_empty">Aucun favori pour l\'instant. Touchez le cœur d\'un morceau pour l\'ajouter.</string>
+
+    <!-- Artiste -->
+    <string name="artist_title">Artiste</string>
+    <string name="artist_empty">Cet artiste n\'a publié aucun morceau.</string>
+    <string name="artist_tracks">Morceaux</string>
+    <string name="artist_stats">%1$s abonnés · %2$d morceaux</string>
+
+    <!-- Réglages -->
+    <string name="settings_title">Réglages</string>
+    <string name="settings_theme">Thème</string>
+    <string name="theme_system">Selon le système</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_dark">Sombre</string>
+
+    <!-- Lecteur -->
+    <string name="player_title">Lecture en cours</string>
+    <string name="player_repeat">Répéter la liste</string>
+    <string name="player_previous">Précédent</string>
+    <string name="player_next">Suivant</string>
+    <string name="player_nothing">Aucun morceau en cours de lecture.</string>
+</resources>
